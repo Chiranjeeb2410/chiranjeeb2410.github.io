@@ -8,7 +8,7 @@
         "dowry_count": 15.000000, 
         "id": "01", 
         "name": "Ajmer",
-        "year": 2001
+        "year": "2001"
       }, 
       "geometry": 
       { 
@@ -23,7 +23,7 @@
         "dowry_count": 9.000000,
         "id": "02",
         "name": "Alwar",
-        "year": 2002
+        "year": "2002"
       }, 
       "geometry": 
       {
