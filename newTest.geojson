@@ -5,7 +5,8 @@
       "type": "Feature", 
       "properties": 
       { 
-        "dowry_count": 15.000000, 
+        "dowry_count": 15.000000,
+        "rape_count": 70.000000, 
         "id": "01", 
         "name": "Ajmer",
         "year": "2001"
@@ -20,7 +21,8 @@
   "type": "Feature", 
   "properties": 
   { 
-    "rape_count": 9.000000, 
+    "rape_count": 9.000000,
+    "dowry_count": 90.000000,     
     "id": "02", 
     "name": "Alwar", 
     "year": "2002" 
@@ -34,7 +36,8 @@
 { 
   "type": "Feature", 
   "properties": 
-  { 
+  {
+    "dowry_count": 95.000000, 
     "rape_count": 7.000000, 
     "id": "03", 
     "name": "Banswara", 
@@ -50,7 +53,8 @@
   "type": "Feature", 
   "properties": 
   { 
-    "dowry_count": 0.000000, 
+    "dowry_count": 19.000000,
+    "rape_count": 100.000000, 
     "id": "04", 
     "name": "Baran", 
     "year": "2002" 
@@ -64,7 +68,8 @@
 { 
   "type": "Feature", 
   "properties": 
-  { 
+  {
+    "rape_count": 87.000000,
     "dowry_count": 2.000000, 
     "id": "06", 
     "name": "Bharatpur", 
@@ -79,7 +84,8 @@
 { 
   "type": "Feature", 
   "properties": 
-  { 
+  {
+    "dowry_count": 110.000000, 
     "rape_count": 25.000000, 
     "id": "16", 
     "name": "Jaipur", "year": "2002"
